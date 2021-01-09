@@ -1,2 +1,7 @@
 # Fundamental-Golang
-Golang Fundamental
+
+##Golang Fundamental
+
+- [x] Hello
+- [x] Package and import library
+- [x] Quiz Pertama  
