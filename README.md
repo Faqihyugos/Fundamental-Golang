@@ -9,3 +9,4 @@
 - [x] if kondisi
 - [x] switch control
 - [x] Looping
+- [x] Quiz Kedua
