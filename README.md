@@ -7,3 +7,4 @@
 - [x] Quiz Pertama  
 - [x] variable, Tipe data
 - [x] if kondisi
+- [x] switch control
