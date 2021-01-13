@@ -10,3 +10,4 @@
 - [x] switch control
 - [x] Looping
 - [x] Quiz Kedua
+- [x] Array
