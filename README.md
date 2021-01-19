@@ -15,3 +15,7 @@
 - [x] Map
 - [x] MapSlice
 - [x] Quiz Ketiga
+- [x] Function
+- [x] Function Lanjutan
+- [x] Function multiple return
+- [x] Function predefined return value
