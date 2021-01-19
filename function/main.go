@@ -15,9 +15,9 @@ func main() {
 
 }
 
-func calculate(panjang, lebar int) (int, int) {
-	luas := panjang * lebar
-	keliling := 2 * (panjang + lebar)
+func calculate(panjang, lebar int) (luas int, keliling int) {
+	luas = panjang * lebar
+	keliling = 2 * (panjang + lebar)
 
 	return luas, keliling
 }
