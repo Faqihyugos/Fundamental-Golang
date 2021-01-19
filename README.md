@@ -14,3 +14,4 @@
 - [x] Slice
 - [x] Map
 - [x] MapSlice
+- [x] Quiz Ketiga
