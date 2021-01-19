@@ -12,3 +12,4 @@
 - [x] Quiz Kedua
 - [x] Array
 - [x] Slice
+- [x] Map
