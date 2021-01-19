@@ -11,3 +11,4 @@
 - [x] Looping
 - [x] Quiz Kedua
 - [x] Array
+- [x] Slice
