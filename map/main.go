@@ -12,10 +12,34 @@ func main() {
 
 	// fmt.Println(myMap)
 
-	myMap := map[string]string{"ruby": "is beautiful", "go": "is super fast"}
+	// For Map
+	// myMap := map[string]string{
+	// 	"ruby":       "is beautiful",
+	// 	"go":         "is super fast",
+	// 	"JavaScript": "hype",
+	// }
 
-	for index, Map := range myMap {
-		fmt.Println(index, ":", Map)
+	// for key, value := range myMap {
+	// 	fmt.Println("Key : ", key, ", Value : ", value)
+	// }
+
+	// fmt.Println("===============")
+
+	// delete(myMap, "go")
+
+	// for key, value := range myMap {
+	// 	fmt.Println("Key : ", key, ", Value : ", value)
+	// }
+
+	// Melihat value map
+	myMap := map[string]string{
+		"ruby":       "is beautiful",
+		"go":         "is super fast",
+		"JavaScript": "hype",
 	}
 
+	value, isAvailabel := myMap["python"]
+
+	fmt.Println(value)
+	fmt.Println(isAvailabel)
 }
