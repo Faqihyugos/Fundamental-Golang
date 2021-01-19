@@ -13,3 +13,4 @@
 - [x] Array
 - [x] Slice
 - [x] Map
+- [x] MapSlice
